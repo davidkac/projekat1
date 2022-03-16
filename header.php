@@ -1,6 +1,6 @@
 <header>
 <link rel="stylesheet" href="./styles/styles.css">
-<link href="styles/blog.css" rel="stylesheet">
+<link rel="stylesheet" href="./styles/styles.css">
     <div class="blog-masthead">
         <div class="container">
             <nav class="nav">
