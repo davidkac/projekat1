@@ -18,9 +18,13 @@ h3 , h2 , h1  {
     color:#b34848;
 }
 .undr3:hover {
-    ext-decoration:underline;
+    text-decoration:underline;
     color:#b34848;
 }
 a {
     text-decoration: none;
+}
+
+.form-control{
+    display: inline-block;
 }
